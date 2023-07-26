@@ -1,16 +1,10 @@
-dnjdnbhjbdjhbjhaboja
-jsdbhkbdkbdsjkbljdsb
-c
-c
-c
-c
-c
-c
-c
-c
-c
-djjksdnjkcndskln
 a= 10
 b=20
 print(a+b)
-(a-b)
+print(a-b)
+
+print("mohit janbandhu")
+
+# Do you know about any 
+
+# TATA BEY BEY
